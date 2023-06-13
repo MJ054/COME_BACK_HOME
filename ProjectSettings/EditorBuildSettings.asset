@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1.unity
+    guid: 59135a4042b97374b981e8b66b405cda
+  - enabled: 0
+    path: 
+    guid: 3739af6427d7f6e429f681ccc4ecac01
+  - enabled: 1
+    path: Assets/Scenes/chapter1.unity
+    guid: d1325264d3343a14392be29b450be1fa
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/error.unity
+    guid: 755bcfb0be1e2944490de0f99e1e8904
+  - enabled: 1
+    path: Assets/Scenes/op3.unity
+    guid: 7920debd600cc164689307900dc1a847
+  - enabled: 1
+    path: Assets/Scenes/miro2.unity
+    guid: 7124bf9147afbcc41a4f72995fc495ce
+  - enabled: 1
+    path: Assets/Scenes/miro3.unity
+    guid: dda197506581ab348b416593f15c41c3
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/ending2.unity
+    guid: 59493169266d8f447b47244d7574ce02
+  - enabled: 1
+    path: Assets/Scenes/chapter2.unity
+    guid: cd058e615d8c420488f9110a2b33295b
+  - enabled: 1
+    path: Assets/Scenes/op2.unity
+    guid: 409b9f2035e1eb5418e10d940092d3ad
+  - enabled: 1
+    path: Assets/Scenes/ending3.unity
+    guid: 080923e68b434e644887ce9dfc060a31
+  - enabled: 1
+    path: Assets/Scenes/miro1.unity
+    guid: 1a30e9fe5dfa58e498c60152e0b84582
+  - enabled: 1
+    path: Assets/Scenes/opening.unity
+    guid: 307693b36382fa146ae526508d2443bb
+  - enabled: 1
+    path: Assets/Scenes/chapter3.unity
+    guid: 5be2140ccc896cb43bee019db31b03d3
+  - enabled: 1
+    path: Assets/Scenes/ending9.unity
+    guid: 1b776eea18f670046ae6a75a45a60283
+  - enabled: 1
+    path: Assets/Scenes/ending10.unity
+    guid: ba6fff28393d67e46a0f7fa7d785d26c
+  - enabled: 1
+    path: Assets/Scenes/ending18.unity
+    guid: 163bef818714ef949972928a581ed897
+  - enabled: 1
+    path: Assets/Scenes/ending13.unity
+    guid: 7db00b8e4aa7947488b74468675653b4
+  - enabled: 1
+    path: Assets/Scenes/ending23.unity
+    guid: f8318a24a0a918247952d32b380bd750
+  - enabled: 1
+    path: Assets/Scenes/ending17.unity
+    guid: 77eefe4cafbb31949bee086046260799
+  - enabled: 1
+    path: Assets/Scenes/ending21.unity
+    guid: decc9981aa8d4694abfeb73dc9e5e984
+  - enabled: 1
+    path: Assets/Scenes/ending25.unity
+    guid: b73c605c6d41fb048a8da328f33fbe4f
+  - enabled: 1
+    path: Assets/Scenes/ending22.unity
+    guid: 5e2c0be7c5a516d45819b2c60b3a7328
+  - enabled: 1
+    path: Assets/Scenes/ending16.unity
+    guid: 65d851a48ac52aa4cb84e2d4ddf267c1
+  - enabled: 1
+    path: Assets/Scenes/ending20.unity
+    guid: 1ac554be4e66aea4a87f65425f10088d
+  - enabled: 1
+    path: Assets/Scenes/ending24.unity
+    guid: 2248b6702fe29a24ab8836215175bfe5
+  - enabled: 1
+    path: Assets/Scenes/ending19.unity
+    guid: 89b68511f280466458e3029093b8ae21
+  - enabled: 1
+    path: Assets/Scenes/ending14.unity
+    guid: 9b271607fcea65e45bd373e7bed4baad
+  - enabled: 1
+    path: Assets/Scenes/ending15.unity
+    guid: 15a2b44b0ef075d4184ca0e692e9d2b6
+  - enabled: 1
+    path: Assets/Scenes/ending11.unity
+    guid: 2fa0882ef81fa4942acad2f1f57a7f89
+  - enabled: 1
+    path: Assets/Scenes/ending12.unity
+    guid: c51be48d34d6c444d971afba195135f3
+  - enabled: 1
+    path: Assets/Scenes/ending8.unity
+    guid: 5a661f11931ab40488ef1c8f70025545
+  - enabled: 1
+    path: Assets/Scenes/gameover.unity
+    guid: 5a6951f390e3eca44abaa66580317545
+  - enabled: 1
+    path: Assets/Scenes/ending7.unity
+    guid: 40178cac113d7ba4ba67eb0b9b0d1d7c
+  - enabled: 1
+    path: Assets/Scenes/ending5.unity
+    guid: fc4e3070c59f13347b98201fb4337c1d
+  - enabled: 1
+    path: Assets/Scenes/ending4.unity
+    guid: 8d5f5241c5df81f4ba5e9f3292f850a0
+  - enabled: 1
+    path: Assets/Scenes/ending6.unity
+    guid: 462860587d24aa147bdf0a98913b5f2f
+  - enabled: 1
+    path: Assets/Scenes/ending.unity
+    guid: ee8b4d6a32b96ae4a8f7fa2f44c136a6
+  m_configObjects: {}
