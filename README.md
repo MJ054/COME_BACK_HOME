@@ -8,4 +8,4 @@ COME BACK HOME 게임은 인공지능이 보편화된 미래사회를 배경으�
 <br>
 
 ## 2. 실행 화면
-![GIFMaker_me (1)](https://github.com/MJ054/COME_BACK_HOME/assets/109513458/57758b72-1d99-4079-9401-fb087530bb3b)
+![GIFMaker_me (1)](https://github.com/MJ054/COME_BACK_HOME/assets/109513458/ad5e17af-6733-4adb-a2c0-c030b8603030)
